@@ -6,5 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server
 nginx
-zhayujie/chatgpt-on-wechat
 dockurr/windows
+zhayujie/chatgpt-on-wechat
