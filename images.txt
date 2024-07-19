@@ -7,4 +7,4 @@ xhofe/alist:latest
 vaultwarden/server
 nginx
 chatgpt-on-wechat
-
+dockurr/windows
