@@ -7,5 +7,5 @@ xhofe/alist:latest
 vaultwarden/server
 nginx
 chatgpt-on-wechat
-linuxserver/docker-compose
+docker-compose
 docker
