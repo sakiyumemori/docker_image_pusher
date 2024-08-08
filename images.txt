@@ -8,4 +8,3 @@ vaultwarden/server
 nginx
 dockurr/windows
 zhayujie/chatgpt-on-wechat
-zhayujie/chatgpt-on-wechat:v1.7.0
