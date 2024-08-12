@@ -9,7 +9,7 @@
 #zhayujie/chatgpt-on-wechat
 #mcuadros/ofelia
 #memcached:alpine
-mailcow/solr:1.8.3
+#mailcow/solr:1.8.3
 #mailcow/dovecot:1.30
 #mailcow/postfix:1.75
 #mailcow/dockerapi:2.08
@@ -25,4 +25,4 @@ mailcow/solr:1.8.3
 #mailcow/sogo:1.123
 #mailcow/phpfpm:1.87
 #robbertkl/ipv6nat
-#nginx:mainline-alpine
+nginx:mainline-alpine
