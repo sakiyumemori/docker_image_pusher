@@ -25,4 +25,4 @@ redis:v7-alpine
 mailcow/sogo:v1.123
 mailcow/phpfpm:v1.87
 robbertkl/ipv6nat
-nginx:mainline-alpine
+nginx:vmainline-alpine
