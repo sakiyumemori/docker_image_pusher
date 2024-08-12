@@ -5,6 +5,23 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server
-nginx
 dockurr/windows
 zhayujie/chatgpt-on-wechat
+mcuadros/ofelia
+memcached:alpine
+mailcow/dovecot:v1.30
+mailcow/solr:v1.8.3
+mailcow/postfix:v1.75
+mailcow/dockerapi:v2.08
+mailcow/olefy:v1.13
+mailcow/watchdog:v2.03
+mailcow/acme:v1.88
+mailcow/netfilter:v1.59
+mailcow/rspamd:v1.96
+mariadb:v10.5
+mailcow/clamd:v1.66
+mailcow/unbound:v1.22
+redis:7-alpine
+mailcow/sogo:v1.123
+mailcow/phpfpm:v1.87
+robbertkl/ipv6nat
