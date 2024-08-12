@@ -1,7 +1,7 @@
 mcuadros/ofelia
 memcached:alpine
-mailcow
 mailcow/solr
+mailcow/dovecot
 mailcow/postfix
 mailcow/dockerapi
 mailcow/olefy
