@@ -8,7 +8,7 @@ vaultwarden/server
 dockurr/windows
 zhayujie/chatgpt-on-wechat
 mcuadros/ofelia
-memcached:alpine
+memcached:valpine
 mailcow/dovecot:v1.30
 mailcow/solr:v1.8.3
 mailcow/postfix:v1.75
@@ -21,7 +21,7 @@ mailcow/rspamd:v1.96
 mariadb:v10.5
 mailcow/clamd:v1.66
 mailcow/unbound:v1.22
-redis:7-alpine
+redis:v7-alpine
 mailcow/sogo:v1.123
 mailcow/phpfpm:v1.87
 robbertkl/ipv6nat
