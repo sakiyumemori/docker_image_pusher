@@ -8,16 +8,16 @@
 #zhayujie/chatgpt-on-wechat
 #mcuadros/ofelia
 #memcached
-mailcow/solr:1.8.3
-mailcow/dovecot:nightly-20240807
-mailcow/postfix:1.75
-mailcow/dockerapi:2.08
-mailcow/olefy:1.13
-mailcow/watchdog:2.04
-mailcow/acme:1.89
-mailcow/netfilter:1.59
-mailcow/rspamd:1.97
-pull mariadb:noble
+#mailcow/solr:1.8.3
+#mailcow/dovecot:nightly-20240807
+#mailcow/postfix:1.75
+#mailcow/dockerapi:2.08
+#mailcow/olefy:1.13
+#mailcow/watchdog:2.04
+#mailcow/acme:1.89
+#mailcow/netfilter:1.59
+#mailcow/rspamd:1.97
+mariadb:noble
 mailcow/clamd:1.66
 mailcow/unbound:1.22
 redis:latest
