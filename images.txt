@@ -1,7 +1,8 @@
 mcuadros/ofelia
 memcached:alpine
 solr
-dovecot
+mailcow/dovecot:1.30
+Copy
 postfix
 dockerapi
 olefy
