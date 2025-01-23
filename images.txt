@@ -1,12 +1,12 @@
 #saki-yumemori-latest命名空间
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #vaultwarden/server
 #dockurr/windows
-#zhayujie/chatgpt-on-wechat
+zhayujie/chatgpt-on-wechat
 #mcuadros/ofelia
 #memcached
 #mailcow/solr:1.8.3
