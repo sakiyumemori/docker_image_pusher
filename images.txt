@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server
 #dockurr/windows
-#zhayujie/chatgpt-on-wechat
+zhayujie/chatgpt-on-wechat
 #mcuadros/ofelia
 #memcached
 #mailcow/solr:1.8.3
